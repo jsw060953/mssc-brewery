@@ -6,6 +6,8 @@ import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 
+import static guru.springframework.msscbrewery.web.model.BeerDto.*;
+
 /**
  * Created by jt on 2019-04-20.
  */
